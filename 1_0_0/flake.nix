@@ -11,6 +11,7 @@
   inputs.src-ducominer-1_0_0.ref   = "refs/tags/1.0.0";
   inputs.src-ducominer-1_0_0.owner = "its5Q";
   inputs.src-ducominer-1_0_0.repo  = "ducominer";
+  inputs.src-ducominer-1_0_0.dir   = "";
   inputs.src-ducominer-1_0_0.type  = "github";
   
   inputs."hashlib".owner = "nim-nix-pkgs";
